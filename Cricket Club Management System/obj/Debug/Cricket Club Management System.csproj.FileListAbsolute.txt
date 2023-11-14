@@ -1,0 +1,7 @@
+D:\Practice For Github\Cricket Club Management System Using C Sharp\Cricket Club Management System\bin\Debug\Cricket Club Management System.exe.config
+D:\Practice For Github\Cricket Club Management System Using C Sharp\Cricket Club Management System\bin\Debug\Cricket Club Management System.exe
+D:\Practice For Github\Cricket Club Management System Using C Sharp\Cricket Club Management System\bin\Debug\Cricket Club Management System.pdb
+D:\Practice For Github\Cricket Club Management System Using C Sharp\Cricket Club Management System\obj\Debug\Cricket Club Management System.csproj.AssemblyReference.cache
+D:\Practice For Github\Cricket Club Management System Using C Sharp\Cricket Club Management System\obj\Debug\Cricket Club Management System.csproj.CoreCompileInputs.cache
+D:\Practice For Github\Cricket Club Management System Using C Sharp\Cricket Club Management System\obj\Debug\Cricket Club Management System.exe
+D:\Practice For Github\Cricket Club Management System Using C Sharp\Cricket Club Management System\obj\Debug\Cricket Club Management System.pdb
